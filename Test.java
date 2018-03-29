@@ -1,6 +1,6 @@
 class Test{
 public static void main()[DString [] args){
-System.out.println();[D[D""[DHello world");
+System.out.println();"(Hello world");
 }
 }
 int i=10;
